@@ -1,0 +1,120 @@
+body {
+  background-image: url("../Images/mountain-view.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+form {
+  margin-top: 60px;
+}
+h1 {
+  padding-top: 10px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: none;
+}
+p {
+  color: #5c6477;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+}
+h3 {
+  text-align: center;
+}
+.weather-h3 {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+.weather-h4-titles {
+  color: #5c6477;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  text-align: right;
+}
+.search-form {
+  padding: 20px;
+  margin-top: 50px;
+}
+.weather-details {
+  color: #42a5f5;
+  text-align: center;
+}
+.sun-icon {
+  color: #f4e711;
+  font-size: 52px;
+}
+.showers-icon {
+  color: #183153;
+  font-size: 52px;
+}
+.icon-align {
+  text-align: center;
+}
+.weather-icons {
+  font-size: 52px;
+}
+.todays-temp {
+  display: block;
+  text-align: center;
+  font-size: 40px;
+  position: relative;
+  top: 30px;
+  color: black;
+}
+.today-box {
+  background-color: rgba(255, 255, 255, 0.4);
+  padding: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 15px;
+}
+footer {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 10px;
+}
+.signiture {
+  font-size: 12px;
+}
+.button {
+  width: 100%;
+  display: block;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 10px;
+  color: #ffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  background-color: #42a5f5;
+  border: 0px;
+  transition: all 200ms ease;
+}
+.button:hover {
+  background-color: #353cee;
+}
+.locationbutton {
+  width: 100%;
+  display: block;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 10px;
+  color: #ffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  background-color: #42a5f5;
+  border: 0px;
+  transition: all 200ms ease;
+}
+.locationbutton:hover {
+  background-color: #353cee;
+}
+.unit {
+  font-size: 18px;
+  position: relative;
+  bottom: 10px;
+}
